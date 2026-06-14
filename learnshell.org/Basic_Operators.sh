@@ -1,4 +1,6 @@
 #!/bin/bash 
+# In this exercise, you will need to calculate to total cost (variable TOTAL) of a fruit basket, which contains 1 pineapple, 2 bananas and 3 watermelons. Don't forget to include the cost of the basket....
+
 
 COST_PINEAPPLE=50
 

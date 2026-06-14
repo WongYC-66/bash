@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#Change the variables in the first section, so that each if statement resolves as True.
+
 # change these variables
 NUMBER=16
 APPLES=16
